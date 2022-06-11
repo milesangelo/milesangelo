@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently working a few full stack projects to run on a rockpro64 web server from home.
+
+Primarily react frontends using .net web apis in different flavors!
+
 <!--
 **milesangelo/milesangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
