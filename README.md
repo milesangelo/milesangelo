@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm currently working a few full stack projects to run on a rockpro64 web server from home.
-
-Primarily react frontends using .net web apis in different flavors!
+An array of projects where I get to build up my full-stack skills and make small applications for users everywhere!
 
 <!--
 **milesangelo/milesangelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
